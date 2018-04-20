@@ -1,0 +1,10 @@
+astroid==1.6.3
+Django==1.11.12
+isort==4.3.4
+lazy-object-proxy==1.3.1
+mccabe==0.6.1
+pylint==1.8.4
+pytz==2018.4
+selenium==3.11.0
+six==1.11.0
+wrapt==1.10.11
